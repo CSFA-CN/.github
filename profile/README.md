@@ -1,3 +1,5 @@
-## Computer Science For All (CSFA)
+## CompFuture
 
-我们立足于教育现状，致力于向更多的中、高等教育学生以及更广泛的大众传递正确且实用的计算机科学知识。
+*Computing for the Future era.*
+
+We write introductory books, host contests, and maintain a community for next-generation Computer Science students.
